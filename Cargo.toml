@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "rhyolite",
+    "examples",
+]
+
+[profile.dev]
+opt-level = 1
